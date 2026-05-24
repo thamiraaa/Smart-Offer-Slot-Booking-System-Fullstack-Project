@@ -1,0 +1,6 @@
+{
+  "name": "Smart Offer Slot Booking System",
+  "description": "An elegant, comprehensive fullstack reservation and limited-time offer slot booking platform with role-based dashboard, interactive slot calendar, QR booking pass, coupon system, and full .NET 8 / PostgreSQL code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
